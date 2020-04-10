@@ -83,6 +83,10 @@ hr .new2{
     height: 100%;
 
 }
+#home-bg-video{
+    border-radius: 50%;
+    width: 300px;
+}
 
 /*company section*/
 #company{
